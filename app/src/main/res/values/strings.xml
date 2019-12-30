@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Home">Home</string>
+    <string name="Business">Business</string>
+    <string name="Sports">Sports</string>
+    <string name="Author">Author</string>
+
+</resources>
